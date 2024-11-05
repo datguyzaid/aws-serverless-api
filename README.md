@@ -10,7 +10,7 @@ I have a NodeJS Cloud Native API which I will be using to deploy in this archite
 
 The aim of this project is to deploy API to AWS Public cloud using only serverless components.
 
-### API code is available [here](https://github.com/NotHarshhaa/DevOps-Projects/tree/master/DevOps-Project-22/serverless-api).
+### API code is available [here](https://github.com/datguyzaid/aws-serverless-api/tree/main/serverless-api).
 
 Following are the serverless services used in this project:
 
