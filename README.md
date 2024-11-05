@@ -1,8 +1,7 @@
 # AWS Fully Serverless Architecture with CI/CD
 
 ## **Introduction:**
-
-I have a NodeJS Cloud Native API which I will be using to deploy in this architecture. This API is specifically designed to make use of AWS serverless services.
+This project involves deploying a cloud-native Node.js API using a fully serverless architecture on AWS, with continuous integration and delivery (CI/CD) implemented for seamless updates. The architecture leverages AWS's serverless services to ensure scalability, reliability, and security while reducing infrastructure management overhead. 
 
 **Architecture:**
 
